@@ -17,21 +17,21 @@
 
 
 from PIL import Image
-img = Image.open('/Users/tingyinlee0810/Documents/東吳英四A/演算法/1.jpg')
+img = Image.open('/Users/tingyinlee0810/Documents/GitHub/Algorithm/1.jpg')
 img.show()
 
 
 # In[18]:
 
 
-img = Image.open('/Users/tingyinlee0810/Documents/東吳英四A/演算法/2.jpg')
+img = Image.open('/Users/tingyinlee0810/Documents/GitHub/Algorithm/2.jpg')
 img.show()
 
 
 # In[19]:
 
 
-img = Image.open('/Users/tingyinlee0810/Documents/東吳英四A/演算法/3.jpg')
+img = Image.open('/Users/tingyinlee0810/Documents/GitHub/Algorithm/3.jpg')
 img.show()
 
 
