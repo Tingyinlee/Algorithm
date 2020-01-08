@@ -1,5 +1,5 @@
 ### Linked List
-1. [蕭-志明，資料結構教學: Link-list 1](https://www.youtube.com/watch?v=VlNSgo4xHWk)
+1. [蕭志明，資料結構教學: Link-list 1](https://www.youtube.com/watch?v=VlNSgo4xHWk)
 2. [CS Dojo，Introduction to Linked Lists (Data Structures & Algorithms #5)](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_title)
 3. [蔡芸琤，108-1 東吳大學資料結構與演算法3B班 - class2](https://www.youtube.com/watch?v=us0M3nytzoQ&feature=youtu.be)
 ### Stack & Queue
