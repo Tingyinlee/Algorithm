@@ -13,7 +13,7 @@
    - [課程內容介紹](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
    - [補充影片1](https://www.youtube.com/watch?v=VlNSgo4xHWk)、[補充影片2](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_title)
    - [實作程式碼](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/707%23_DesignLinkedList_05121127.py)
-   - [學習歷程]()
+   - [學習歷程](https://github.com/Tingyinlee/Algorithm/tree/master/Leetcode)
    
 > ### Week 3 - Stack & Queue
    - [上課投影片參考](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
