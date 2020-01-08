@@ -1,5 +1,5 @@
 
-了解Hash流程圖及原理的參考資料：
+了解BFS+DFS流程圖及原理的參考資料：
 1. 演算法圖鑑 by石田保輝 ＆ 宮崎修一
 2. BFS原理參考：https://zh.wikipedia.org/wiki/广度优先搜索
 3. DFS原理參考：https://zh.wikipedia.org/wiki/深度优先搜索
