@@ -104,7 +104,7 @@
 - [705#_DesignedHashSet]()
 - [707#_DesignedLinkedList](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/707%23_DesignLinkedList_05121127.py)
 - [912#_SortAnArray]()
-- [學習歷程]()
+- [學習歷程](https://github.com/Tingyinlee/Algorithm/tree/master/Leetcode)
 
 ---
 ### CS50
