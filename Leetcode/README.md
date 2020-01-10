@@ -2,12 +2,6 @@
 ---
 
 ## 155. Min Stack
-
-
-
----
-
-## 232. Implement Queue using Stacks
 Stack是具有「Last-In-First-Out」的資料結構(可以想像成一種裝資料的容器)，「最晚進入Stack」的資料會「最先被取出」，「最早進入Stack」的資料則「最晚被取出」。  
 一般的Stack，會有以下幾個處理資料結構的功能：  
 Push(data)：把資料放進Stack。把書放進箱子。  
