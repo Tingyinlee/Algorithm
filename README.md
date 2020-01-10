@@ -99,7 +99,7 @@
 但使用者絕對不只學生、工程師，舉凡Google、矽谷的各種科技公司在招募工程師時，都會在LeetCode上找適合的人選，因此LeetCode是個平台，擁有完整個面向的使用者。
 
 > ### Leetcode
-- [232#_ImplementQueueusingStacks]()
+- [155#_MinStack](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/155%23_MinStack_05121127.py)
 - [700#_SearchingABinarySearchTree]()
 - [705#_DesignedHashSet]()
 - [707#_DesignedLinkedList](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/707%23_DesignLinkedList_05121127.py)
