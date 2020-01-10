@@ -103,7 +103,7 @@
 - [700#_SearchingABinarySearchTree]()
 - [705#_DesignedHashSet](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/705%23_DesignHashSet_05121127.py)
 - [707#_DesignedLinkedList](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/707%23_DesignLinkedList_05121127.py)
-- [1290#_Convert Binary Number in a Linked List to Integer]()
+- [1290#_Convert Binary Number in a Linked List to Integer](https://github.com/Tingyinlee/Algorithm/blob/master/Leetcode/1290%23_Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer_05121127.py)
 - [學習歷程](https://github.com/Tingyinlee/Algorithm/tree/master/Leetcode)
 
 ---
