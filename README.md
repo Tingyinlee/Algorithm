@@ -1,11 +1,11 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms:books:
 ---
 ### Class Name: Data Structures and Algorithms
 ### Course Name: BDM30101
 ### Instructor: Tsai, Yun-Cheng
 ### Credit(s): 3
 ---
-## Weekly Schedule:
+## Weekly Schedule: :memo: :relaxed:
 > ### Week 1 - Introduction
    - 上課上課方式與計分規則說明
    
