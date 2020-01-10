@@ -31,9 +31,9 @@ BST會將數據存入各個節點，並作為一種提供搜尋功能(binart sea
 1. 建立 Hash Table 並決定其長度。
 2. 新增數值型態資料進入 Hash Table 中，決定資料再Hash Table中index的位置，key = index。若發生 Collision 的情況，很可能有多個 Key被分在Hash Table 中同一個 index ，此時就可以利用 Chaining 的方法， 使用 Linked list 把被分在 Hash Table 中同一個 index 的 Key 值串起來。  
 
-*Add : 先利用 Hash Function 取得 Table 的 index ，接著再利用 addAtTail每個資料依序串起來。  
-*Contains: 先利用 Hash Function 取得 Table 的 index ，接著再利用 Search 找到欲查找的資料。  
-*Remove: 先利用 Hash Function 取得 Table的 index ，接著再 利用 Delete 刪除欲刪除的資料。  
+> - Add : 先利用 Hash Function 取得 Table 的 index ，接著再利用 addAtTail每個資料依序串起來。  
+  - Contains: 先利用 Hash Function 取得 Table 的 index ，接著再利用 Search 找到欲查找的資料。  
+  - Remove: 先利用 Hash Function 取得 Table的 index ，接著再 利用 Delete 刪除欲刪除的資料。  
 
 ---
 ## 707. Design Linked List
